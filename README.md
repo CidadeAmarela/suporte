@@ -14,7 +14,7 @@ Uma série de atividades, principalmente vinculadas à comunicação, toma tempo
 
 * revisão ou fechamento de tickets: quando o próprio usuário redige a sua solicitação pode ser necessária alguma revisão de texto ou complementação na discusso. <br/>Complementa-se pelo registro do número de issues de autoria de terceiros nos tikets que atendeu e deu fechamento.
 
-Nenhuma outra forma de atendimento é prevista. 
+Nenhuma outra forma de atendimento é prevista. Foi convencionado que o tempo mínimo por resolução de ticket é de 10 minutos, e que ao gastar mais tempo o suporte deve informá-lo em uma linha separada de baixa na planilha.
 
 ## Registros dos  tikets
 
