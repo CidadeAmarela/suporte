@@ -40,3 +40,11 @@ O histórico dos tickets da CidadeAmarela é público, fica armazenado no presen
 
 NOTA: Pedimos que não envie tickets de suporte com o mesmo assunto se já existem tickets em aberto. Se já existem tickets em aberto, basta respondê-lo.
 
+-----
+
+## Licença
+Todos os conteúdos deste repositório *git*, incluindo conteúdos postados por terceiros nas *issues*, estão sob licença "Creative Commons Atribuição 3.0 Brasil".<br/>
+[
+&nbsp;&nbsp;![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/CC-BY_icon.svg/88px-CC-BY_icon.svg.png)<br/>
+&nbsp;&nbsp;&nbsp;**CC-BY-3.0**](https://creativecommons.org/licenses/by/3.0/br/)
+
