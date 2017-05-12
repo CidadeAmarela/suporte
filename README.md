@@ -1,20 +1,21 @@
 # suporte
 
-Gestão do **suporte técnico prestado pela equipe de suporte da Cidade Amarela** aos condôminos, na manutenção do condomínio e na inclusão dos recursos dos novos condôminos. Neste repositório são registrados os 
+Gestão do **suporte técnico prestado pela equipe de suporte da Cidade Amarela** aos condôminos, na manutenção do condomínio e na inclusão dos recursos dos novos condôminos. 
 
-A equipe de suporte realiza uma série de pequenos atendimentos e pequenos serviços,  que recisam ser registrados de forma transparente, tanto para a prestação de contas, como para demonstrar como estão sendo entendidas e interpretadas as soluções ou em que velocidade estão sendo resolvidas.
+A equipe de suporte realiza uma série de pequenos atendimentos e pequenos serviços,  que recisam ser registrados de forma transparente, tanto para a prestação de contas, como para tirar dúvidas e permitir o acompanhamento da comunidade.
+Neste repositório são registrados os tickets, as horas de suporte consumidas em cada tickets, as horas de atendimento consumidas com cada  e-mail, com triagem, etc.
 
 ## Registro de horas
 
-Uma série de atividades, principalmente vinculadas à comunicação, toma tempo do atendente mas não pode ser ela mesma registrada como serviço de suporte. Pode-se apenas estimar o valor de horas gastas em função por exemplo do número de e-mails recebidos.  Os membros da equipe devem registrar as horas consumidas no mês na [planilha de suporte-horas](data/suporte-horas.csv). As horas são discriminadas em função do tipo de atividade:
+Uma série de atividades, principalmente vinculadas à comunicação, tomam tempo e não podem ser registradas como "solução de um  ticket". Por isso além da planilha de sumarização das horas-ticket, a equipe de supore deve prestar contas preenchendo linhas da planilha de [planilha de horas-atendimento](data/horas-atendimento.csv) desvinculada dos tickets, relativas a:
 
-* e-mails: horas gastas abrindo, lendo e avaliando chamados postados por e-mail. <br/>O registro do valor de horas complementa-se pelo registro do número de e-mails de suporte.
+* triagem de e-mails: horas gastas abrindo, lendo e avaliando chamados postados por e-mail. <br/>O registro do valor de horas complementa-se pelo registro do número de e-mails de suporte.
 
-* abertura de tickets (issue com *label* referente a suporte): horas gastas na criação do texto-padrão para registro da atividade solicitada, quando o próprio usuário não o fez. <br/>Complementa-se pelo registro do número de issues de autoria do funcionário.
+* triagem de tickets: quando o próprio usuário redige a sua solicitação, é necessário que a equipe do suporte classifique e  revise. Alguns podem ser classificados como dúvidas, não sendo registrados como tickets de suporte. <br/>Complementa-se pelo registro do número de atendimentos sem demanda por resolução.
 
-* revisão ou fechamento de tickets: quando o próprio usuário redige a sua solicitação pode ser necessária alguma revisão de texto ou complementação na discusso. <br/>Complementa-se pelo registro do número de issues de autoria de terceiros nos tikets que atendeu e deu fechamento.
+* abertura de tickets: horas gastas na criação de um ticket. Em geral associado a um ou mais atendimentos (de e-mails ou outros tickets). <br/>Complementa-se pelo registro do número de tickets resolvidos.
 
-Nenhuma outra forma de atendimento é prevista. Foi convencionado que o tempo mínimo por resolução de ticket é de 10 minutos, e que ao gastar mais tempo o suporte deve informá-lo em uma linha separada de baixa na planilha.
+**Nenhuma outra forma de atendimento é prevista**. Foi convencionado que o **tempo mínimo por resolução de ticket é de 10 minutos**, e que ao gastar mais tempo o suporte deve informá-lo em uma linha separada (não-agregada) na planilha.
 
 ## Registros dos  tikets
 
